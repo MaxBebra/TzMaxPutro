@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tz</string>
+    <string name="confedencionalInfo">Эти данные никому не передаются. После оплаты мы вышлем чек на указанный вами номер и почту.</string>
+</resources>
